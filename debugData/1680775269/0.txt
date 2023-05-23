@@ -1,0 +1,10 @@
+{"Item1":"1/20/2022","Item2":"(70)","Item3":"666"}
+{"Item1":"7/30/2022","Item2":"(8)","Item3":"ATEAM"}
+{"Item1":"7/22/2022","Item2":"(8)","Item3":"Beans"}
+{"Item1":"4/27/2022","Item2":"(10)","Item3":"BLAZE"}
+{"Item1":"5/1/2022","Item2":"(4)","Item3":"BONES"}
+{"Item1":"1/30/2022","Item2":"(3)","Item3":"boomR"}
+{"Item1":"1/9/2023","Item2":"(3)","Item3":"CLOUT"}
+{"Item1":"1/19/2022","Item2":"(54)","Item3":"debug"}
+{"Item1":"12/5/2022","Item2":"(8)","Item3":"Drama"}
+{"Item1":"2/27/2022","Item2":"(9)","Item3":"DTF"}
